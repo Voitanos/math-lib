@@ -1,5 +1,5 @@
-# exclude all typescript files
-**/*.ts
+# exclude all source files
+src
 
 # exclude project files
 .gitignore
