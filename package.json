@@ -1,0 +1,31 @@
+{
+  "name": "@voitanos/math-lib",
+  "version": "1.0.0",
+  "description": "Demo library showing how to implement shared code in SPFx projects.",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc -p ./"
+  },
+  "homepage": "https://github.com/Voitanos/math-lib",
+  "bugs": {
+    "url": "https://github.com/Voitanos/math-lib/issues"
+  },
+  "issues": "https://github.com/Voitanos/math-lib/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Voitanos/math-lib"
+  },
+  "author": "Andrew Connell <andrew@voitanos.io>",
+  "maintainers": [
+    {
+      "name": "andrewconnell",
+      "email": "andrew@voitanos.io"
+    }
+  ],
+  "devDependencies": {
+    "@types/node": "^11.9.5",
+    "typescript": "^3.3.3333"
+  }
+}

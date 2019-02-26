@@ -1,0 +1,8 @@
+# exclude all typescript files
+**/*.ts
+
+# exclude project files
+.gitignore
+.npmignore
+tsconfig.json
+yarn.lock
