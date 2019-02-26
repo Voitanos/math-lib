@@ -1,6 +1,6 @@
 {
   "name": "@voitanos/math-lib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Demo library showing how to implement shared code in SPFx projects.",
   "license": "MIT",
   "main": "lib/index.js",
